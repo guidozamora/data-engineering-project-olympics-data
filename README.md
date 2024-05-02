@@ -7,6 +7,7 @@ The project ingest data from my github account using Azure Data Fabric, then loa
 The data contains the details of more than 11,000 athletes, 47 disciplines and 743 teams from the Tokyo 2021(2020) Olympics.
 
 Original data can be found in kaggle in the below url
+
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
 ## Project diagram
