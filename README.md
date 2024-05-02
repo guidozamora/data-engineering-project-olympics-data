@@ -7,3 +7,6 @@ The project ingest data from my github account using Azure Data Fabric, then loa
 
 ## Project diagram
 
+![image](https://github.com/guidozamora/data-engineering-project-olympics-data/assets/37388984/c2e16835-60d1-47f4-9035-dfd1f5796efe)
+
+
